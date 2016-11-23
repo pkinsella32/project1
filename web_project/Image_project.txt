@@ -1,0 +1,18 @@
+GItHub Info.
+email paul.kinsella03@gmail.com
+password *
+Project name Project1
+
+CodeAnyway info
+email kince23@gmail.com
+password *
+
+XML
+
+  <images>
+	<image1>
+	  <path>"   "</path>
+	  <name>Funny Picture</name>
+          <category>Featured</category>
+	  <rating> figure out rating part</rating>
+	</image1>
