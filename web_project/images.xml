@@ -1,13 +1,528 @@
 <?xml version = "1.0"?>
     <images>
-      <image id ="rel1">
-        <path> "  "</path>
-        <name>Funny Pictures</name>
-        <category>Featured Pictures</category>
-        <rating>Rating Part-- stars to indicate rating</rating>
-        <description>This is an image</description>
-      </image1>
-
+      <animalImgs>
+        <image id ="ani1">
+          <path>/images/ANIMALS/ani1.jpg</path>
+          <name>Funny Pictures</name>
+          <category>Funny Animals</category>
+          <rating>Rating Part-- stars to indicate rating</rating>
+          <description>This is an image</description>
+        </image>
+        
+         <image id ="ani2">
+          <path>/images/ANIMALS/ani2.jpg</path>
+          <name>Funny Pictures</name>
+          <category>Funny Animals</category>
+          <rating>Rating Part-- stars to indicate rating</rating>
+          <description>This is an image</description>
+        </image>
+        
+         <image id ="ani3">
+          <path>/images/ANIMALS/ani3.jpg</path>
+          <name>Funny Pictures</name>
+          <category>Funny Animals</category>
+          <rating>Rating Part-- stars to indicate rating</rating>
+          <description>This is an image</description>
+        </image>
+        
+         <image id ="ani4">
+          <path>/images/ANIMALS/ani4.jpg</path>
+          <name>Funny Pictures</name>
+          <category>Funny Animals</category>
+          <rating>Rating Part-- stars to indicate rating</rating>
+          <description>This is an image</description>
+        </image>
+        
+         <image id ="ani5">
+          <path>/images/ANIMALS/ani5.jpg</path>
+          <name>Funny Pictures</name>
+          <category>Funny Animals</category>
+          <rating>Rating Part-- stars to indicate rating</rating>
+          <description>This is an image</description>
+        </image>
+        
+         <image id ="ani6">
+          <path>/images/ANIMALS/ani6.jpg</path>
+          <name>Funny Pictures</name>
+          <category>Funny Animals</category>
+          <rating>Rating Part-- stars to indicate rating</rating>
+          <description>This is an image</description>
+        </image>
+        
+         <image id ="ani7">
+          <path>/images/ANIMALS/ani7.jpg</path>
+          <name>Funny Pictures</name>
+          <category>Funny Animals</category>
+          <rating>Rating Part-- stars to indicate rating</rating>
+          <description>This is an image</description>
+        </image>
+        
+         <image id ="ani8">
+          <path>/images/ANIMALS/ani8.jpg</path>
+          <name>Funny Pictures</name>
+          <category>Funny Animals</category>
+          <rating>Rating Part-- stars to indicate rating</rating>
+          <description>This is an image</description>
+        </image>
+        
+         <image id ="ani9">
+          <path>/images/ANIMALS/ani9.jpg</path>
+          <name>Funny Pictures</name>
+          <category>Funny Animals</category>
+          <rating>Rating Part-- stars to indicate rating</rating>
+          <description>This is an image</description>
+        </image>
+      </animalImgs>
+      
+      <funnyImgs>
+         <image id ="fun1">
+          <path>/images/FUNNY/fun1.jpg</path>
+          <name>Funny Pictures</name>
+          <category>Funny</category>
+          <rating>Rating Part-- stars to indicate rating</rating>
+          <description>This is an image</description>
+        </image>
+        
+         <image id ="fun2">
+          <path>/images/FUNNY/fun2.jpg</path>
+          <name>Funny Pictures</name>
+          <category>Funny</category>
+          <rating>Rating Part-- stars to indicate rating</rating>
+          <description>This is an image</description>
+        </image>
+        
+         <image id ="fun3">
+          <path>/images/FUNNY/fun3.jpg</path>
+          <name>Funny Pictures</name>
+          <category>Funny</category>
+          <rating>Rating Part-- stars to indicate rating</rating>
+          <description>This is an image</description>
+        </image>
+        
+         <image id ="fun4">
+          <path>/images/FUNNY/fun4.jpg</path>
+          <name>Funny Pictures</name>
+          <category>Funny</category>
+          <rating>Rating Part-- stars to indicate rating</rating>
+          <description>This is an image</description>
+        </image>
+        
+         <image id ="fun5">
+          <path>/images/FUNNY/fun5.jpg</path>
+          <name>Funny Pictures</name>
+          <category>Funny</category>
+          <rating>Rating Part-- stars to indicate rating</rating>
+          <description>This is an image</description>
+        </image>
+        
+         <image id ="fun6">
+          <path>/images/FUNNY/fun6.jpg</path>
+          <name>Funny Pictures</name>
+          <category>Funny</category>
+          <rating>Rating Part-- stars to indicate rating</rating>
+          <description>This is an image</description>
+        </image>
+        
+         <image id ="fun7">
+          <path>/images/FUNNY/fun7.jpg</path>
+          <name>Funny Pictures</name>
+          <category>Funny</category>
+          <rating>Rating Part-- stars to indicate rating</rating>
+          <description>This is an image</description>
+        </image>
+        
+         <image id ="fun8">
+          <path>/images/FUNNY/fun8.jpg</path>
+          <name>Funny Pictures</name>
+          <category>Funny</category>
+          <rating>Rating Part-- stars to indicate rating</rating>
+          <description>This is an image</description>
+        </image>
+        
+         <image id ="fun9">
+          <path>/images/FUNNY/fun9.jpg</path>
+          <name>Funny Pictures</name>
+          <category>Funny</category>
+          <rating>Rating Part-- stars to indicate rating</rating>
+          <description>This is an image</description>
+        </image>
+      </funnyImgs>
+      
+      <medImgs>
+         <image id ="med1">
+          <path>/images/MEDICAL/med1.jpg</path>
+          <name>Funny Pictures</name>
+          <category>Medical</category>
+          <rating>Rating Part-- stars to indicate rating</rating>
+          <description>This is an image</description>
+         </image>
+        
+         <image id ="med2">
+          <path>/images/MEDICAL/med2.jpg</path>
+          <name>Funny Pictures</name>
+          <category>Medical</category>
+          <rating>Rating Part-- stars to indicate rating</rating>
+          <description>This is an image</description>
+         </image>
+        
+         <image id ="med3">
+          <path>/images/MEDICAL/med3.jpg</path>
+          <name>Funny Pictures</name>
+          <category>Medical</category>
+          <rating>Rating Part-- stars to indicate rating</rating>
+          <description>This is an image</description>
+         </image>
+        
+         <image id ="med4">
+          <path>/images/MEDICAL/med4.jpg</path>
+          <name>Funny Pictures</name>
+          <category>Medical</category>
+          <rating>Rating Part-- stars to indicate rating</rating>
+          <description>This is an image</description>
+         </image>
+        
+         <image id ="med5">
+          <path>/images/MEDICAL/med5.jpg</path>
+          <name>Funny Pictures</name>
+          <category>Medical</category>
+          <rating>Rating Part-- stars to indicate rating</rating>
+          <description>This is an image</description>
+         </image>
+        
+         <image id ="med6">
+          <path>/images/MEDICAL/med6.jpg</path>
+          <name>Funny Pictures</name>
+          <category>Medical</category>
+          <rating>Rating Part-- stars to indicate rating</rating>
+          <description>This is an image</description>
+         </image>
+        
+         <image id ="med7">
+          <path>/images/MEDICAL/med7.jpg</path>
+          <name>Funny Pictures</name>
+          <category>Medical</category>
+          <rating>Rating Part-- stars to indicate rating</rating>
+          <description>This is an image</description>
+         </image>
+        
+         <image id ="med8">
+          <path>/images/MEDICAL/med8.jpg</path>
+          <name>Funny Pictures</name>
+          <category>Medical</category>
+          <rating>Rating Part-- stars to indicate rating</rating>
+          <description>This is an image</description>
+        </image>
+         <image id ="med9">
+          <path>/images/MEDICAL/med9.jpg</path>
+          <name>Funny Pictures</name>
+          <category>Medical</category>
+          <rating>Rating Part-- stars to indicate rating</rating>
+          <description>This is an image</description>
+         </image>
+      </medImgs>
+      
+      <memeImgs>
+       <image id ="mem1">
+         <path>/images/MEMES/mem1.jpg</path>
+         <name>Funny Pictures</name>
+         <category>MEMES</category>
+         <rating>Rating Part-- stars to indicate rating</rating>
+         <description>This is an image</description>
+        </image>
+        
+        <image id ="mem2">
+         <path>/images/MEMES/mem2.jpg</path>
+         <name>Funny Pictures</name>
+         <category>MEMES</category>
+         <rating>Rating Part-- stars to indicate rating</rating>
+         <description>This is an image</description>
+        </image>
+        
+        <image id ="mem3">
+         <path>/images/MEMES/mem3.jpg</path>
+         <name>Funny Pictures</name>
+         <category>MEMES</category>
+         <rating>Rating Part-- stars to indicate rating</rating>
+         <description>This is an image</description>
+        </image>
+        
+        <image id ="mem4">
+         <path>/images/MEMES/mem4.jpg</path>
+         <name>Funny Pictures</name>
+         <category>MEMES</category>
+         <rating>Rating Part-- stars to indicate rating</rating>
+         <description>This is an image</description>
+        </image>
+        
+        <image id ="mem5">
+         <path>/images/MEMES/mem5.jpg</path>
+         <name>Funny Pictures</name>
+         <category>MEMES</category>
+         <rating>Rating Part-- stars to indicate rating</rating>
+         <description>This is an image</description>
+        </image>
+        
+        <image id ="mem6">
+         <path>/images/MEMES/mem6.jpg</path>
+         <name>Funny Pictures</name>
+         <category>MEMES</category>
+         <rating>Rating Part-- stars to indicate rating</rating>
+         <description>This is an image</description>
+        </image>
+        
+        <image id ="mem7">
+         <path>/images/MEMES/mem7.jpg</path>
+         <name>Funny Pictures</name>
+         <category>MEMES</category>
+         <rating>Rating Part-- stars to indicate rating</rating>
+         <description>This is an image</description>
+        </image>
+        
+        <image id ="mem8">
+         <path>/images/MEMES/mem8.jpg</path>
+         <name>Funny Pictures</name>
+         <category>MEMES</category>
+         <rating>Rating Part-- stars to indicate rating</rating>
+         <description>This is an image</description>
+        </image>
+        
+        <image id ="mem9">
+         <path>/images/MEMES/mem9.jpg</path>
+         <name>Funny Pictures</name>
+         <category>MEMES</category>
+         <rating>Rating Part-- stars to indicate rating</rating>
+         <description>This is an image</description>
+        </image>
+       </memeImgs>
+      
+      <polImgs>
+        <image id ="pol1">
+         <path>/images/MEMES/pol1.jpg</path>
+         <name>Funny Pictures</name>
+         <category>POLTICAL</category>
+         <rating>Rating Part-- stars to indicate rating</rating>
+         <description>This is an image</description>
+        </image>
+        <image id ="pol1">
+         <path>/images/MEMES/pol1.jpg</path>
+         <name>Funny Pictures</name>
+         <category>POLTICAL</category>
+         <rating>Rating Part-- stars to indicate rating</rating>
+         <description>This is an image</description>
+        </image>
+        <image id ="pol2">
+         <path>/images/MEMES/pol2.jpg</path>
+         <name>Funny Pictures</name>
+         <category>POLTICAL</category>
+         <rating>Rating Part-- stars to indicate rating</rating>
+         <description>This is an image</description>
+        </image>
+        
+        <image id ="pol3">
+         <path>/images/MEMES/pol3.jpg</path>
+         <name>Funny Pictures</name>
+         <category>POLTICAL</category>
+         <rating>Rating Part-- stars to indicate rating</rating>
+         <description>This is an image</description>
+        </image>
+        
+        <image id ="pol4">
+         <path>/images/MEMES/pol1.jpg</path>
+         <name>Funny Pictures</name>
+         <category>POLTICAL</category>
+         <rating>Rating Part-- stars to indicate rating</rating>
+         <description>This is an image</description>
+        </image>
+        <image id ="pol4">
+         <path>/images/MEMES/pol1.jpg</path>
+         <name>Funny Pictures</name>
+         <category>POLTICAL</category>
+         <rating>Rating Part-- stars to indicate rating</rating>
+         <description>This is an image</description>
+        </image>
+        
+        <image id ="pol5">
+         <path>/images/MEMES/pol5.jpg</path>
+         <name>Funny Pictures</name>
+         <category>POLTICAL</category>
+         <rating>Rating Part-- stars to indicate rating</rating>
+         <description>This is an image</description>
+        </image>
+        
+        <image id ="pol6">
+         <path>/images/MEMES/pol6.jpg</path>
+         <name>Funny Pictures</name>
+         <category>POLTICAL</category>
+         <rating>Rating Part-- stars to indicate rating</rating>
+         <description>This is an image</description>
+        </image>
+        
+        <image id ="pol7">
+         <path>/images/MEMES/pol7.jpg</path>
+         <name>Funny Pictures</name>
+         <category>POLTICAL</category>
+         <rating>Rating Part-- stars to indicate rating</rating>
+         <description>This is an image</description>
+        </image>
+        
+        <image id ="pol8">
+         <path>/images/MEMES/pol8.jpg</path>
+         <name>Funny Pictures</name>
+         <category>POLTICAL</category>
+         <rating>Rating Part-- stars to indicate rating</rating>
+         <description>This is an image</description>
+        </image>
+        
+        <image id ="pol9">
+         <path>/images/MEMES/pol9.jpg</path>
+         <name>Funny Pictures</name>
+         <category>POLTICAL</category>
+         <rating>Rating Part-- stars to indicate rating</rating>
+         <description>This is an image</description>
+        </image> 
+      </polImgs>
+      
+      <relImgs>
+        <image id ="rel1">
+         <path>/images/RELIGON/rel1.jpg</path>
+         <name>Funny Pictures</name>
+         <category>RELIGIOUS</category>
+         <rating>Rating Part-- stars to indicate rating</rating>
+         <description>This is an image</description>
+        </image>
+        
+        <image id ="rel2">
+         <path>/images/RELIGON/rel2.jpg</path>
+         <name>Funny Pictures</name>
+         <category>RELIGIOUS</category>
+         <rating>Rating Part-- stars to indicate rating</rating>
+         <description>This is an image</description>
+        </image>
+        
+        <image id ="rel3">
+         <path>/images/RELIGON/rel3.jpg</path>
+         <name>Funny Pictures</name>
+         <category>RELIGIOUS</category>
+         <rating>Rating Part-- stars to indicate rating</rating>
+         <description>This is an image</description>
+        </image>
+        
+        <image id ="rel4">
+         <path>/images/RELIGON/rel4.jpg</path>
+         <name>Funny Pictures</name>
+         <category>RELIGIOUS</category>
+         <rating>Rating Part-- stars to indicate rating</rating>
+         <description>This is an image</description>
+        </image>
+        
+        <image id ="rel5">
+         <path>/images/RELIGON/rel5.jpg</path>
+         <name>Funny Pictures</name>
+         <category>RELIGIOUS</category>
+         <rating>Rating Part-- stars to indicate rating</rating>
+         <description>This is an image</description>
+        </image>
+        
+        <image id ="rel6">
+         <path>/images/RELIGON/rel6.jpg</path>
+         <name>Funny Pictures</name>
+         <category>RELIGIOUS</category>
+         <rating>Rating Part-- stars to indicate rating</rating>
+         <description>This is an image</description>
+        </image>
+        
+        <image id ="rel7">
+         <path>/images/RELIGON/rel7.jpg</path>
+         <name>Funny Pictures</name>
+         <category>RELIGIOUS</category>
+         <rating>Rating Part-- stars to indicate rating</rating>
+         <description>This is an image</description>
+        </image>
+        
+        <image id ="rel8">
+         <path>/images/RELIGON/rel8.jpg</path>
+         <name>Funny Pictures</name>
+         <category>RELIGIOUS</category>
+         <rating>Rating Part-- stars to indicate rating</rating>
+         <description>This is an image</description>
+        </image>
+        
+        <image id ="rel9">
+         <path>/images/RELIGON/rel9.jpg</path>
+         <name>Funny Pictures</name>
+         <category>RELIGIOUS</category>
+         <rating>Rating Part-- stars to indicate rating</rating>
+         <description>This is an image</description>
+        </image>
+      </relImgs>
+      
+      <sportImgs>
+       <image id ="spo1">
+         <path>/images/SPORT/spo1.jpg</path>
+         <name>Funny Pictures</name>
+         <category>SPORT</category>
+         <rating>Rating Part-- stars to indicate rating</rating>
+         <description>This is an image</description>
+        </image>
+        
+        <image id ="spo2">
+         <path>/images/SPORT/spo2.jpg</path>
+         <name>Funny Pictures</name>
+         <category>SPORT</category>
+         <rating>Rating Part-- stars to indicate rating</rating>
+         <description>This is an image</description>
+        </image>
+        
+        <image id ="spo3">
+         <path>/images/SPORT/spo3.jpg</path>
+         <name>Funny Pictures</name>
+         <category>SPORT</category>
+         <rating>Rating Part-- stars to indicate rating</rating>
+         <description>This is an image</description>
+        </image>
+        <image id ="spo4">
+         <path>/images/SPORT/spo4.jpg</path>
+         <name>Funny Pictures</name>
+         <category>SPORT</category>
+         <rating>Rating Part-- stars to indicate rating</rating>
+         <description>This is an image</description>
+        </image>
+       <image id ="spo5">
+         <path>/images/SPORT/spo5.jpg</path>
+         <name>Funny Pictures</name>
+         <category>SPORT</category>
+         <rating>Rating Part-- stars to indicate rating</rating>
+         <description>This is an image</description>
+        </image>
+       <image id ="spo6">
+         <path>/images/SPORT/spo6.jpg</path>
+         <name>Funny Pictures</name>
+         <category>SPORT</category>
+         <rating>Rating Part-- stars to indicate rating</rating>
+         <description>This is an image</description>
+        </image>
+       <image id ="spo7">
+         <path>/images/SPORT/spo7.jpg</path>
+         <name>Funny Pictures</name>
+         <category>SPORT</category>
+         <rating>Rating Part-- stars to indicate rating</rating>
+         <description>This is an image</description>
+        </image>
+       <image id ="spo8">
+         <path>/images/SPORT/spo8.jpg</path>
+         <name>Funny Pictures</name>
+         <category>SPORT</category>
+         <rating>Rating Part-- stars to indicate rating</rating>
+         <description>This is an image</description>
+        </image>
+       <image id ="spo9">
+         <path>/images/SPORT/spo9.jpg</path>
+         <name>Funny Pictures</name>
+         <category>SPORT</category>
+         <rating>Rating Part-- stars to indicate rating</rating>
+         <description>This is an image</description>
+        </image>        
+      </sportImgs>
 
 
 
