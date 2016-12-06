@@ -1,32 +1,134 @@
-<?xml version = "1.0"?>
-<xsd:schema xmlns:xsd="http://www.w3.org/2001/xmlSchema">
-     <xsd:annotation>
-		<xsd:documentation>
-			This document describes the Schema
-			</xsd:documentation>
-		</xsd:annotation>
-		
-		<xsd:element name = "images">
-			<xsd:complexType>
-			<xsd:sequence>
-				<xsd:element ref = "image" minOccurs = "1" maxOccurs ="unbounded"/>
-				</xsd:sequence>
-			</xsd:complexType>
-		</xsd:element>
-		
-		<xsd:element name = "image">
-			<xsd:complexType>
-				<xsd:sequence>
-				  	<xsd:element name ="name" type = "xsd:string"minOccurs ="1"/>
-						<xsd:element name = "path" type = "xsd:string"/>
-						<xsd:element name = "category" type = "xsd:string"/>
-						<xsd:element name = "rating" type = "xsd:decimal"/>
-						<xsd:element name = "description" type = "xsd:string/>
-                                                      
-					</xsd:sequence>
-					<xsd:attribute name = "id" type = "xsd:string"/>
-				</xsd:complexType>
-			</xsd:element>
-			
-		
-	</xsd:schema>
+<xs:schema attributeFormDefault="unqualified" elementFormDefault="qualified" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:element name="images">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="animalImgs">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="image" maxOccurs="unbounded" minOccurs="0">
+                <xs:complexType>
+                  <xs:sequence>
+                    <xs:element type="xs:string" name="path"/>
+                    <xs:element type="xs:string" name="name"/>
+                    <xs:element type="xs:string" name="category"/>
+                    <xs:element type="xs:string" name="rating"/>
+                    <xs:element type="xs:string" name="description"/>
+                  </xs:sequence>
+                  <xs:attribute type="xs:string" name="id" use="optional"/>
+                </xs:complexType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="funnyImgs">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="image" maxOccurs="unbounded" minOccurs="0">
+                <xs:complexType>
+                  <xs:sequence>
+                    <xs:element type="xs:string" name="path"/>
+                    <xs:element type="xs:string" name="name"/>
+                    <xs:element type="xs:string" name="category"/>
+                    <xs:element type="xs:string" name="rating"/>
+                    <xs:element type="xs:string" name="description"/>
+                  </xs:sequence>
+                  <xs:attribute type="xs:string" name="id" use="optional"/>
+                </xs:complexType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="medImgs">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="image" maxOccurs="unbounded" minOccurs="0">
+                <xs:complexType>
+                  <xs:sequence>
+                    <xs:element type="xs:string" name="path"/>
+                    <xs:element type="xs:string" name="name"/>
+                    <xs:element type="xs:string" name="category"/>
+                    <xs:element type="xs:string" name="rating"/>
+                    <xs:element type="xs:string" name="description"/>
+                  </xs:sequence>
+                  <xs:attribute type="xs:string" name="id" use="optional"/>
+                </xs:complexType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="memeImgs">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="image" maxOccurs="unbounded" minOccurs="0">
+                <xs:complexType>
+                  <xs:sequence>
+                    <xs:element type="xs:string" name="path"/>
+                    <xs:element type="xs:string" name="name"/>
+                    <xs:element type="xs:string" name="category"/>
+                    <xs:element type="xs:string" name="rating"/>
+                    <xs:element type="xs:string" name="description"/>
+                  </xs:sequence>
+                  <xs:attribute type="xs:string" name="id" use="optional"/>
+                </xs:complexType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="polImgs">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="image" maxOccurs="unbounded" minOccurs="0">
+                <xs:complexType>
+                  <xs:sequence>
+                    <xs:element type="xs:string" name="path"/>
+                    <xs:element type="xs:string" name="name"/>
+                    <xs:element type="xs:string" name="category"/>
+                    <xs:element type="xs:string" name="rating"/>
+                    <xs:element type="xs:string" name="description"/>
+                  </xs:sequence>
+                  <xs:attribute type="xs:string" name="id" use="optional"/>
+                </xs:complexType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="relImgs">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="image" maxOccurs="unbounded" minOccurs="0">
+                <xs:complexType>
+                  <xs:sequence>
+                    <xs:element type="xs:string" name="path"/>
+                    <xs:element type="xs:string" name="name"/>
+                    <xs:element type="xs:string" name="category"/>
+                    <xs:element type="xs:string" name="rating"/>
+                    <xs:element type="xs:string" name="description"/>
+                  </xs:sequence>
+                  <xs:attribute type="xs:string" name="id" use="optional"/>
+                </xs:complexType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="sportImgs">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="image" maxOccurs="unbounded" minOccurs="0">
+                <xs:complexType>
+                  <xs:sequence>
+                    <xs:element type="xs:string" name="path"/>
+                    <xs:element type="xs:string" name="name"/>
+                    <xs:element type="xs:string" name="category"/>
+                    <xs:element type="xs:string" name="rating"/>
+                    <xs:element type="xs:string" name="description"/>
+                  </xs:sequence>
+                  <xs:attribute type="xs:string" name="id" use="optional"/>
+                </xs:complexType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>
