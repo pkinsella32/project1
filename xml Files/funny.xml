@@ -1,0 +1,76 @@
+<?xml version = "1.0"?>
+<images>
+ <funnyImgs>
+         <image id ="fun1">
+          <path>/images/FUNNY/fun1.jpg</path>
+          <name>Funny Pictures</name>
+          <category>Funny</category>
+          <rating>Rating Part-- stars to indicate rating</rating>
+          <description>This is an image</description>
+        </image>
+        
+         <image id ="fun2">
+          <path>/images/FUNNY/fun2.jpg</path>
+          <name>Funny Pictures</name>
+          <category>Funny</category>
+          <rating>Rating Part-- stars to indicate rating</rating>
+          <description>This is an image</description>
+        </image>
+        
+         <image id ="fun3">
+          <path>/images/FUNNY/fun3.jpg</path>
+          <name>Funny Pictures</name>
+          <category>Funny</category>
+          <rating>Rating Part-- stars to indicate rating</rating>
+          <description>This is an image</description>
+        </image>
+        
+         <image id ="fun4">
+          <path>/images/FUNNY/fun4.jpg</path>
+          <name>Funny Pictures</name>
+          <category>Funny</category>
+          <rating>Rating Part-- stars to indicate rating</rating>
+          <description>This is an image</description>
+        </image>
+        
+         <image id ="fun5">
+          <path>/images/FUNNY/fun5.jpg</path>
+          <name>Funny Pictures</name>
+          <category>Funny</category>
+          <rating>Rating Part-- stars to indicate rating</rating>
+          <description>This is an image</description>
+        </image>
+        
+         <image id ="fun6">
+          <path>/images/FUNNY/fun6.jpg</path>
+          <name>Funny Pictures</name>
+          <category>Funny</category>
+          <rating>Rating Part-- stars to indicate rating</rating>
+          <description>This is an image</description>
+        </image>
+        
+         <image id ="fun7">
+          <path>/images/FUNNY/fun7.jpg</path>
+          <name>Funny Pictures</name>
+          <category>Funny</category>
+          <rating>Rating Part-- stars to indicate rating</rating>
+          <description>This is an image</description>
+        </image>
+        
+         <image id ="fun8">
+          <path>/images/FUNNY/fun8.jpg</path>
+          <name>Funny Pictures</name>
+          <category>Funny</category>
+          <rating>Rating Part-- stars to indicate rating</rating>
+          <description>This is an image</description>
+        </image>
+        
+         <image id ="fun9">
+          <path>/images/FUNNY/fun9.jpg</path>
+          <name>Funny Pictures</name>
+          <category>Funny</category>
+          <rating>Rating Part-- stars to indicate rating</rating>
+          <description>This is an image</description>
+        </image>
+      </funnyImgs>
+</images>

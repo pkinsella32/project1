@@ -1,0 +1,75 @@
+<?xml version = "1.0"?>
+    <images>
+       <medImgs>
+         <image id ="med1">
+          <path>/images/MEDICAL/med1.jpg</path>
+          <name>Funny Pictures</name>
+          <category>Medical</category>
+          <rating>Rating Part-- stars to indicate rating</rating>
+          <description>This is an image</description>
+         </image>
+        
+         <image id ="med2">
+          <path>/images/MEDICAL/med2.jpg</path>
+          <name>Funny Pictures</name>
+          <category>Medical</category>
+          <rating>Rating Part-- stars to indicate rating</rating>
+          <description>This is an image</description>
+         </image>
+        
+         <image id ="med3">
+          <path>/images/MEDICAL/med3.jpg</path>
+          <name>Funny Pictures</name>
+          <category>Medical</category>
+          <rating>Rating Part-- stars to indicate rating</rating>
+          <description>This is an image</description>
+         </image>
+        
+         <image id ="med4">
+          <path>/images/MEDICAL/med4.jpg</path>
+          <name>Funny Pictures</name>
+          <category>Medical</category>
+          <rating>Rating Part-- stars to indicate rating</rating>
+          <description>This is an image</description>
+         </image>
+        
+         <image id ="med5">
+          <path>/images/MEDICAL/med5.jpg</path>
+          <name>Funny Pictures</name>
+          <category>Medical</category>
+          <rating>Rating Part-- stars to indicate rating</rating>
+          <description>This is an image</description>
+         </image>
+        
+         <image id ="med6">
+          <path>/images/MEDICAL/med6.jpg</path>
+          <name>Funny Pictures</name>
+          <category>Medical</category>
+          <rating>Rating Part-- stars to indicate rating</rating>
+          <description>This is an image</description>
+         </image>
+        
+         <image id ="med7">
+          <path>/images/MEDICAL/med7.jpg</path>
+          <name>Funny Pictures</name>
+          <category>Medical</category>
+          <rating>Rating Part-- stars to indicate rating</rating>
+          <description>This is an image</description>
+         </image>
+        
+         <image id ="med8">
+          <path>/images/MEDICAL/med8.jpg</path>
+          <name>Funny Pictures</name>
+          <category>Medical</category>
+          <rating>Rating Part-- stars to indicate rating</rating>
+          <description>This is an image</description>
+        </image>
+         <image id ="med9">
+          <path>/images/MEDICAL/med9.jpg</path>
+          <name>Funny Pictures</name>
+          <category>Medical</category>
+          <rating>Rating Part-- stars to indicate rating</rating>
+          <description>This is an image</description>
+         </image>
+      </medImgs>
+</images>

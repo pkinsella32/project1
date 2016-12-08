@@ -1,0 +1,76 @@
+<?xml version = "1.0"?>
+    <images>
+       <relImgs>
+        <image id ="rel1">
+         <path>/images/RELIGON/rel1.jpg</path>
+         <name>Funny Pictures</name>
+         <category>RELIGIOUS</category>
+         <rating>Rating Part-- stars to indicate rating</rating>
+         <description>This is an image</description>
+        </image>
+        
+        <image id ="rel2">
+         <path>/images/RELIGON/rel2.jpg</path>
+         <name>Funny Pictures</name>
+         <category>RELIGIOUS</category>
+         <rating>Rating Part-- stars to indicate rating</rating>
+         <description>This is an image</description>
+        </image>
+        
+        <image id ="rel3">
+         <path>/images/RELIGON/rel3.jpg</path>
+         <name>Funny Pictures</name>
+         <category>RELIGIOUS</category>
+         <rating>Rating Part-- stars to indicate rating</rating>
+         <description>This is an image</description>
+        </image>
+        
+        <image id ="rel4">
+         <path>/images/RELIGON/rel4.jpg</path>
+         <name>Funny Pictures</name>
+         <category>RELIGIOUS</category>
+         <rating>Rating Part-- stars to indicate rating</rating>
+         <description>This is an image</description>
+        </image>
+        
+        <image id ="rel5">
+         <path>/images/RELIGON/rel5.jpg</path>
+         <name>Funny Pictures</name>
+         <category>RELIGIOUS</category>
+         <rating>Rating Part-- stars to indicate rating</rating>
+         <description>This is an image</description>
+        </image>
+        
+        <image id ="rel6">
+         <path>/images/RELIGON/rel6.jpg</path>
+         <name>Funny Pictures</name>
+         <category>RELIGIOUS</category>
+         <rating>Rating Part-- stars to indicate rating</rating>
+         <description>This is an image</description>
+        </image>
+        
+        <image id ="rel7">
+         <path>/images/RELIGON/rel7.jpg</path>
+         <name>Funny Pictures</name>
+         <category>RELIGIOUS</category>
+         <rating>Rating Part-- stars to indicate rating</rating>
+         <description>This is an image</description>
+        </image>
+        
+        <image id ="rel8">
+         <path>/images/RELIGON/rel8.jpg</path>
+         <name>Funny Pictures</name>
+         <category>RELIGIOUS</category>
+         <rating>Rating Part-- stars to indicate rating</rating>
+         <description>This is an image</description>
+        </image>
+        
+        <image id ="rel9">
+         <path>/images/RELIGON/rel9.jpg</path>
+         <name>Funny Pictures</name>
+         <category>RELIGIOUS</category>
+         <rating>Rating Part-- stars to indicate rating</rating>
+         <description>This is an image</description>
+        </image>
+      </relImgs>
+      </images>

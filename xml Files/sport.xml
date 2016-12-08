@@ -1,0 +1,61 @@
+<?xml version = "1.0"?>
+ <images>
+    <image id ="spo2">
+         <path>/images/SPORT/spo2.jpg</path>
+         <name>Funny Pictures</name>
+         <category>SPORT</category>
+         <rating>Rating Part-- stars to indicate rating</rating>
+         <description>This is an image</description>
+        </image>
+        
+        <image id ="spo3">
+         <path>/images/SPORT/spo3.jpg</path>
+         <name>Funny Pictures</name>
+         <category>SPORT</category>
+         <rating>Rating Part-- stars to indicate rating</rating>
+         <description>This is an image</description>
+        </image>
+        <image id ="spo4">
+         <path>/images/SPORT/spo4.jpg</path>
+         <name>Funny Pictures</name>
+         <category>SPORT</category>
+         <rating>Rating Part-- stars to indicate rating</rating>
+         <description>This is an image</description>
+        </image>
+       <image id ="spo5">
+         <path>/images/SPORT/spo5.jpg</path>
+         <name>Funny Pictures</name>
+         <category>SPORT</category>
+         <rating>Rating Part-- stars to indicate rating</rating>
+         <description>This is an image</description>
+        </image>
+       <image id ="spo6">
+         <path>/images/SPORT/spo6.jpg</path>
+         <name>Funny Pictures</name>
+         <category>SPORT</category>
+         <rating>Rating Part-- stars to indicate rating</rating>
+         <description>This is an image</description>
+        </image>
+       <image id ="spo7">
+         <path>/images/SPORT/spo7.jpg</path>
+         <name>Funny Pictures</name>
+         <category>SPORT</category>
+         <rating>Rating Part-- stars to indicate rating</rating>
+         <description>This is an image</description>
+        </image>
+       <image id ="spo8">
+         <path>/images/SPORT/spo8.jpg</path>
+         <name>Funny Pictures</name>
+         <category>SPORT</category>
+         <rating>Rating Part-- stars to indicate rating</rating>
+         <description>This is an image</description>
+        </image>
+       <image id ="spo9">
+         <path>/images/SPORT/spo9.jpg</path>
+         <name>Funny Pictures</name>
+         <category>SPORT</category>
+         <rating>Rating Part-- stars to indicate rating</rating>
+         <description>This is an image</description>
+        </image>        
+      </sportImgs>
+</images>

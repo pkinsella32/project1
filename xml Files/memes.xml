@@ -1,0 +1,163 @@
+<?xml version = "1.0"?>
+  <images>
+<memeImgs>
+       <image id ="mem1">
+         <path>/images/MEMES/mem1.jpg</path>
+         <name>Funny Pictures</name>
+         <category>MEMES</category>
+         <rating>Rating Part-- stars to indicate rating</rating>
+         <description>This is an image</description>
+        </image>
+        
+        <image id ="mem2">
+         <path>/images/MEMES/mem2.jpg</path>
+         <name>Funny Pictures</name>
+         <category>MEMES</category>
+         <rating>Rating Part-- stars to indicate rating</rating>
+         <description>This is an image</description>
+        </image>
+        
+        <image id ="mem3">
+         <path>/images/MEMES/mem3.jpg</path>
+         <name>Funny Pictures</name>
+         <category>MEMES</category>
+         <rating>Rating Part-- stars to indicate rating</rating>
+         <description>This is an image</description>
+        </image>
+        
+        <image id ="mem4">
+         <path>/images/MEMES/mem4.jpg</path>
+         <name>Funny Pictures</name>
+         <category>MEMES</category>
+         <rating>Rating Part-- stars to indicate rating</rating>
+         <description>This is an image</description>
+        </image>
+        
+        <image id ="mem5">
+         <path>/images/MEMES/mem5.jpg</path>
+         <name>Funny Pictures</name>
+         <category>MEMES</category>
+         <rating>Rating Part-- stars to indicate rating</rating>
+         <description>This is an image</description>
+        </image>
+        
+        <image id ="mem6">
+         <path>/images/MEMES/mem6.jpg</path>
+         <name>Funny Pictures</name>
+         <category>MEMES</category>
+         <rating>Rating Part-- stars to indicate rating</rating>
+         <description>This is an image</description>
+        </image>
+        
+        <image id ="mem7">
+         <path>/images/MEMES/mem7.jpg</path>
+         <name>Funny Pictures</name>
+         <category>MEMES</category>
+         <rating>Rating Part-- stars to indicate rating</rating>
+         <description>This is an image</description>
+        </image>
+        
+        <image id ="mem8">
+         <path>/images/MEMES/mem8.jpg</path>
+         <name>Funny Pictures</name>
+         <category>MEMES</category>
+         <rating>Rating Part-- stars to indicate rating</rating>
+         <description>This is an image</description>
+        </image>
+        
+        <image id ="mem9">
+         <path>/images/MEMES/mem9.jpg</path>
+         <name>Funny Pictures</name>
+         <category>MEMES</category>
+         <rating>Rating Part-- stars to indicate rating</rating>
+         <description>This is an image</description>
+        </image>
+       </memeImgs>
+      
+      <polImgs>
+        <image id ="pol1">
+         <path>/images/MEMES/pol1.jpg</path>
+         <name>Funny Pictures</name>
+         <category>POLTICAL</category>
+         <rating>Rating Part-- stars to indicate rating</rating>
+         <description>This is an image</description>
+        </image>
+        <image id ="pol1">
+         <path>/images/MEMES/pol1.jpg</path>
+         <name>Funny Pictures</name>
+         <category>POLTICAL</category>
+         <rating>Rating Part-- stars to indicate rating</rating>
+         <description>This is an image</description>
+        </image>
+        <image id ="pol2">
+         <path>/images/MEMES/pol2.jpg</path>
+         <name>Funny Pictures</name>
+         <category>POLTICAL</category>
+         <rating>Rating Part-- stars to indicate rating</rating>
+         <description>This is an image</description>
+        </image>
+        
+        <image id ="pol3">
+         <path>/images/MEMES/pol3.jpg</path>
+         <name>Funny Pictures</name>
+         <category>POLTICAL</category>
+         <rating>Rating Part-- stars to indicate rating</rating>
+         <description>This is an image</description>
+        </image>
+        
+        <image id ="pol4">
+         <path>/images/MEMES/pol1.jpg</path>
+         <name>Funny Pictures</name>
+         <category>POLTICAL</category>
+         <rating>Rating Part-- stars to indicate rating</rating>
+         <description>This is an image</description>
+        </image>
+        <image id ="pol4">
+         <path>/images/MEMES/pol1.jpg</path>
+         <name>Funny Pictures</name>
+         <category>POLTICAL</category>
+         <rating>Rating Part-- stars to indicate rating</rating>
+         <description>This is an image</description>
+        </image>
+        
+        <image id ="pol5">
+         <path>/images/MEMES/pol5.jpg</path>
+         <name>Funny Pictures</name>
+         <category>POLTICAL</category>
+         <rating>Rating Part-- stars to indicate rating</rating>
+         <description>This is an image</description>
+        </image>
+        
+        <image id ="pol6">
+         <path>/images/MEMES/pol6.jpg</path>
+         <name>Funny Pictures</name>
+         <category>POLTICAL</category>
+         <rating>Rating Part-- stars to indicate rating</rating>
+         <description>This is an image</description>
+        </image>
+        
+        <image id ="pol7">
+         <path>/images/MEMES/pol7.jpg</path>
+         <name>Funny Pictures</name>
+         <category>POLTICAL</category>
+         <rating>Rating Part-- stars to indicate rating</rating>
+         <description>This is an image</description>
+        </image>
+        
+        <image id ="pol8">
+         <path>/images/MEMES/pol8.jpg</path>
+         <name>Funny Pictures</name>
+         <category>POLTICAL</category>
+         <rating>Rating Part-- stars to indicate rating</rating>
+         <description>This is an image</description>
+        </image>
+        
+        <image id ="pol9">
+         <path>/images/MEMES/pol9.jpg</path>
+         <name>Funny Pictures</name>
+         <category>POLTICAL</category>
+         <rating>Rating Part-- stars to indicate rating</rating>
+         <description>This is an image</description>
+        </image> 
+      </polImgs>
+</images>

@@ -1,0 +1,76 @@
+<?xml version = "1.0"?>
+ <images>
+      <animalImgs>
+        <image id ="ani1">
+          <path>/images/ANIMALS/ani1.jpg</path>
+          <name>Funny Pictures</name>
+          <category>Funny Animals</category>
+          <rating>Rating Part-- stars to indicate rating</rating>
+          <description>This is an image</description>
+        </image>
+        
+         <image id ="ani2">
+          <path>/images/ANIMALS/ani2.jpg</path>
+          <name>Funny Pictures</name>
+          <category>Funny Animals</category>
+          <rating>Rating Part-- stars to indicate rating</rating>
+          <description>This is an image</description>
+        </image>
+        
+         <image id ="ani3">
+          <path>/images/ANIMALS/ani3.jpg</path>
+          <name>Funny Pictures</name>
+          <category>Funny Animals</category>
+          <rating>Rating Part-- stars to indicate rating</rating>
+          <description>This is an image</description>
+        </image>
+        
+         <image id ="ani4">
+          <path>/images/ANIMALS/ani4.jpg</path>
+          <name>Funny Pictures</name>
+          <category>Funny Animals</category>
+          <rating>Rating Part-- stars to indicate rating</rating>
+          <description>This is an image</description>
+        </image>
+        
+         <image id ="ani5">
+          <path>/images/ANIMALS/ani5.jpg</path>
+          <name>Funny Pictures</name>
+          <category>Funny Animals</category>
+          <rating>Rating Part-- stars to indicate rating</rating>
+          <description>This is an image</description>
+        </image>
+        
+         <image id ="ani6">
+          <path>/images/ANIMALS/ani6.jpg</path>
+          <name>Funny Pictures</name>
+          <category>Funny Animals</category>
+          <rating>Rating Part-- stars to indicate rating</rating>
+          <description>This is an image</description>
+        </image>
+        
+         <image id ="ani7">
+          <path>/images/ANIMALS/ani7.jpg</path>
+          <name>Funny Pictures</name>
+          <category>Funny Animals</category>
+          <rating>Rating Part-- stars to indicate rating</rating>
+          <description>This is an image</description>
+        </image>
+        
+         <image id ="ani8">
+          <path>/images/ANIMALS/ani8.jpg</path>
+          <name>Funny Pictures</name>
+          <category>Funny Animals</category>
+          <rating>Rating Part-- stars to indicate rating</rating>
+          <description>This is an image</description>
+        </image>
+        
+         <image id ="ani9">
+          <path>/images/ANIMALS/ani9.jpg</path>
+          <name>Funny Pictures</name>
+          <category>Funny Animals</category>
+          <rating>Rating Part-- stars to indicate rating</rating>
+          <description>This is an image</description>
+        </image>
+      </animalImgs>
+</images>
